@@ -8,7 +8,7 @@ public class Main2 {
         String str2 = scanner.nextLine();
         System.out.println("Inserisci la terza stringa");
         String str3 = scanner.nextLine();
-
- System.out.println(str1 + " " + str2 + " " + str3);
+        System.out.println(str1 + " " + str2 + " " + str3);
+        System.out.println(str3 + " " + str2 + " " + str1);
         scanner.close();
 }}

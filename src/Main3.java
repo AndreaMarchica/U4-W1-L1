@@ -7,6 +7,7 @@ public class Main3 {
     }
     public static double perimetroTriangolo(double a,double b,double c) {
         double semiperimetro = (a + b + c) / 2;
-        double area = java.lang.Math.sqrt(p(p - a) * (p - b) * (p - c));
+  //      double area = java.lang.Math.sqrt(p(p - a) * (p - b) * (p - c));
+    return semiperimetro;
     }
 }
